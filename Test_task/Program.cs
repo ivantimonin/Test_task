@@ -23,6 +23,4 @@ namespace Test_task
             Console.ReadLine();
         }
     }
-    
-
 }
